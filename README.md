@@ -6,5 +6,5 @@ from the command prompt clone the project
 * $ng serve --open
 
 
-[Watch the Tutorial](youtube.com/techsithtube).
+[Watch the Tutorial](https://youtu.be/BfcJDiGxt8s).
 
